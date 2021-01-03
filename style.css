@@ -8,8 +8,12 @@ h1{
     color: orange;
 }
 .half-width{
-   width: 35%;
-   padding: 4%;
+   width: 42%;
+   margin-left: 2%;
+   padding: 5%;
    float: left;
    text-align: justify;
+}
+img{
+    width: 35%;
 }
