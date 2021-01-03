@@ -7,3 +7,9 @@ h1{
 .name-highlight{
     color: orange;
 }
+.half-width{
+   width: 35%;
+   padding: 4%;
+   float: left;
+   text-align: justify;
+}
