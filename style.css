@@ -43,13 +43,3 @@ section{
 h2{
     font-size: 40px;
 }
-.last-half{
-    width: 40%;
-   margin-left: 5%;
-   padding: 0% 2% ;
-   float: left;
-   text-align: justify;
-}
-.last-half img{
-    width: 100%;
-}
