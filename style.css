@@ -9,9 +9,9 @@ h1{
     color: orange;
 }
 .half-width{
-   width: 43%;
-   margin-left: 2%;
-   padding-left: 5% ;
+   width: 40%;
+   margin-left: 5%;
+   padding: 0% 2% ;
    float: left;
    text-align: justify;
 }
@@ -44,9 +44,9 @@ h2{
     font-size: 40px;
 }
 .last-half{
-    width: 43%;
-   margin-left: 2%;
-   padding-left: 5% ;
+    width: 40%;
+   margin-left: 5%;
+   padding: 0% 2% ;
    float: left;
    text-align: justify;
 }
