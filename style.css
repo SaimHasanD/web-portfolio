@@ -11,16 +11,20 @@ h1{
 .half-width{
    width: 42%;
    margin-left: 2%;
-   padding: 5%;
+   padding-left: 5% ;
    float: left;
    text-align: justify;
 }
-img{
-    width: 35%;
+.half-width img{
+    width: 100%;
 }
 .me{
     background-image: url("Images/top-banner.png");
     background-repeat: no-repeat;
+    
+}
+section{
+    height: 550px;
 }
 .link-button{
     text-decoration: none;
@@ -29,4 +33,5 @@ img{
     border-radius: 10px;
     font-weight: 900;
     padding: 10px 20px;
+    border: 1px solid black;
 }
