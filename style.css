@@ -9,7 +9,7 @@ h1{
     color: orange;
 }
 .half-width{
-   width: 42%;
+   width: 43%;
    margin-left: 2%;
    padding-left: 5% ;
    float: left;
@@ -34,4 +34,22 @@ section{
     font-weight: 900;
     padding: 10px 20px;
     border: 1px solid black;
+}
+.you{
+    background-image: url("Images/top-banner.png");
+    background-repeat: no-repeat;
+    
+}
+h2{
+    font-size: 40px;
+}
+.last-half{
+    width: 43%;
+   margin-left: 2%;
+   padding-left: 5% ;
+   float: left;
+   text-align: justify;
+}
+.last-half img{
+    width: 100%;
 }
