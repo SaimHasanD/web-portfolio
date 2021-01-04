@@ -5,7 +5,7 @@ body{
 h1{
     font-size: 50px;
 }
-.name-highlight{
+.orange-highlight{
     color: orange;
 }
 .half-width{
@@ -24,8 +24,10 @@ h1{
     
 }
 section{
-    height: ;: 550px;
-   
+    height: 550px;
+}
+p{
+    color: dimgray;
 }
 .link-button{
     text-decoration: none;
@@ -35,12 +37,13 @@ section{
     font-weight: 900;
     padding: 10px 20px;
     border: 1px solid rgb(255, 0, 0);
-}
-.you{
-    background-image: url("Images/top-banner.png");
+} 
+.big-dream{
+    background-image: url(Images/dream.png);
     background-repeat: no-repeat;
-    
+    background-position: right;
+    margin-bottom: 200px;
 }
 h2{
-    font-size: 40px;
+    font-size: 40px
 }
