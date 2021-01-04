@@ -33,7 +33,7 @@ section{
     border-radius: 10px;
     font-weight: 900;
     padding: 10px 20px;
-    border: 1px solid black;
+    border: 1px solid rgb(255, 0, 0);
 }
 .you{
     background-image: url("Images/top-banner.png");
